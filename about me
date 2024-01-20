@@ -4,10 +4,11 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>My resume_KT</title>
+	<link rel="stylesheet" type="text/css" href="pages/css.txt">
 </head>
 <body>
 <p> <h1> ABOUT ME </h1>
-		<p> <img src="img/seawolf.jpg"alt="About me" width="300"height ="350"> </p>
+		<p> <img src="img/seawolf.jpg"alt="About me" width="500"height ="350"> </p>
 	<p> my name Kateryna, born and raised in Odessa, Ukraine. i like crocheting, documentaries "how to make a cult"-kind, and hate cooking. want fint job in QA field to be able work remotely and learn smth new</p> </p>
 			<hr>
 	<p> <h2> work experience/certificates</h2>
