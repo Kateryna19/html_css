@@ -1,6 +1,8 @@
-h1{color: palevioletred;
+h1{color: darkred;
 	font-family: 'Calisto MT', 'Cooper Black', Arial;}
-h2{color: darkorange;
+h2{color: indianred;
 	font-family: 'Calisto MT', 'Cooper Black', Arial;}
-ul{color: black;
-	font-family: 'Calisto MT', 'Cooper Black', Arial;}
+p{color: black;
+	font-family: 'Calisto MT', 'Cooper Black', Arial; padding-right: 220px}
+.layer {padding-left: 350px}
+hr.half-width{width:50%;margin: 0 auto; padding-left: 390px}
